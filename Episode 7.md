@@ -16,3 +16,4 @@ We find ourselves in front of [[The Invisible Hand]]. The [[crew]] of the ship i
 
 [[Huginn]] 
 Genesis 10:9 "And kush beget Nimrod..."
+[[Ishmael Yaeger]], pilot of  [[Nimrod Revenant]], known to [[Carolyn Jack]]
