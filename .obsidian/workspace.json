@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Huginn.md",
+                "file": "Episode 7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Huginn"
+              "title": "Episode 7"
             }
           },
           {
@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Alliance High Command"
             }
+          },
+          {
+            "id": "bab1cfd5553f1df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Isaac Was'utala Wasomun.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Isaac Was'utala Wasomun"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -185,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "89bc3860decd24a5",
@@ -271,7 +296,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,9 +310,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b6bf0f5bcc5a856",
+  "active": "bab1cfd5553f1df3",
   "lastOpenFiles": [
     "Episode 7.md",
+    "Alliance High Command.md",
+    "Episode 8.md",
     "Huginn.md",
     "The Invisible Hand.md",
     "Isaac Was'utala Wasomun.md",
@@ -310,8 +338,6 @@
     "Episode 3.md",
     "Episode 2.md",
     "Episode 1.md",
-    "Dr. Vivian Nimue.md",
-    "Downtime.md",
     "Untitled.canvas"
   ]
 }
