@@ -16,4 +16,4 @@ Black, middle aged. Shaved head. Overalls over a henley that was once white, wel
 ## Relationships 
 [[Jesse Anderson]]: 
 ## Captain’s Notes
-_The irony is not lost on me that I have a perfectly capable ship’s doctor in my crew that I cannot make use of because she is too useful somewhere else. I would be a fool not to leverage her expertise and mechanical genius, but I don’t have to be happy about it _
+_The irony is not lost on me that I have a perfectly capable ship’s doctor in my crew that I cannot make use of because she is too useful somewhere else. I would be a fool not to leverage her expertise and mechanical genius, but I don’t have to be happy about it_

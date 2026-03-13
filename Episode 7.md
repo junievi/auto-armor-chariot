@@ -47,3 +47,13 @@ Cut to Engineering. As medics and repair crews (accompanied by [[Leo Socorrin]])
 > > You're right. I can do this. I _can_ do this 
 
 Surprised by how well Yuri calmed the young surgeon, Doc says "You're more competent than I thought!"
+
+Inspecting the sabotage further, Yuri realizes that events don't properly line up to support the initial story of a simple "hatchet job". In a bid to deflect attention away from himself and potentially get people to drop their guard, he knocks over a toolbox. 
+
+Sensing Doc's discomfort, Yuri guides her outside and asks her if she's noticed anybody suspicious in the engineering or medical crew. Doc suggests that whoever did this could have booked it to a speeder and fled the ship, and Yuri runs off to investigate.
+
+Cut to Omma. Time slows down as she follows the tripwire to the source of the coming explosion. [[Deimos]] slams its enormous sword into the  ground and takes cover behind it, splitting the blast wave in a V shape. It's cool as _fuck_.
+
+Cut to Andi, who races towards the source of the explosion, meeting up with Omma. He exits [[The Dogged Day]] to investigate the automated cannon while Omma keeps watch. He tries to peer into the future to see if the cannon is dangerous, but the spell backfires and his mind is flooded with all the terrible possible timelines that end in his demise. Despite the horrors, he manages to discern that the radio mechanism is hooked up to the cannon's firing mechanism. 
+
+Cut to the bridge. 

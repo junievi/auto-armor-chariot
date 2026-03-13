@@ -6,6 +6,7 @@
       {
         "id": "3f1d948b58ca5f03",
         "type": "tabs",
+        "dimension": 47.87906137184115,
         "children": [
           {
             "id": "cfd296161c483dab",
@@ -109,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leo Socorrin.md",
+                "file": "Episode 7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +125,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Leo Socorrin"
+              "title": "Episode 7"
             }
           }
         ],
@@ -133,6 +134,7 @@
       {
         "id": "b3d988e155d8d278",
         "type": "tabs",
+        "dimension": 52.12093862815884,
         "children": [
           {
             "id": "06b1ac62acab3640",
@@ -168,8 +170,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -328,19 +329,24 @@
   },
   "active": "bab1cfd5553f1df3",
   "lastOpenFiles": [
-    "Episode 7.md",
     "Isaac Was'utala Wasomun.md",
+    "Traits.md",
+    "Episode 7.md",
+    "Ommatokoita Ancylos Lichtenberg.md",
+    "bane.md",
+    "Violeta June.md",
+    "Carolyn Jack.md",
+    "Holly Doc M’Benga.md",
+    "Leo Socorrin.md",
     "versatile.md",
     "decisive.md",
     "ranged.md",
-    "Leo Socorrin.md",
     "Huginn.md",
     "Alliance High Command.md",
     "Episode 8.md",
     "The Invisible Hand.md",
     "Senior Staff.md",
     "Kala Courvoisier.md",
-    "Violeta June.md",
     "Tomoteloman Republic.md",
     "The Winter Palace.md",
     "The Presidio.md",
@@ -349,11 +355,6 @@
     "Somewhere Nearby.md",
     "Social Space or Private Quarters.md",
     "Plan and Prepare.md",
-    "Nokama.md",
-    "Infirmary or Hanger.md",
-    "Holly Doc M’Benga.md",
-    "Episode 6.md",
-    "Episode 5.md",
     "Untitled.canvas"
   ]
 }
