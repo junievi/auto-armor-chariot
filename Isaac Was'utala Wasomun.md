@@ -2,7 +2,7 @@
 Played by: [[Violeta June]]
 [[Playbook]]: [[The Captain]] 
 # In Game
-## [[Spotlight]]: 3
+## [[Spotlight]]: 4
 
 ## [[Risks]]: 
 ## [[Perils]]: 

@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "7b6bf0f5bcc5a856",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Episode 7.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Episode 7"
-            }
-          },
-          {
             "id": "24733d43187811cb",
             "type": "leaf",
             "state": {
@@ -133,6 +109,37 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Leo Socorrin.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Leo Socorrin"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "b3d988e155d8d278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06b1ac62acab3640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Isaac Was'utala Wasomun.md",
                 "mode": "source",
                 "source": false,
@@ -150,9 +157,19 @@
               "icon": "lucide-file",
               "title": "Isaac Was'utala Wasomun"
             }
+          },
+          {
+            "id": "25d418f60c85ae12",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -313,9 +330,13 @@
   "lastOpenFiles": [
     "Episode 7.md",
     "Isaac Was'utala Wasomun.md",
+    "versatile.md",
+    "decisive.md",
+    "ranged.md",
+    "Leo Socorrin.md",
+    "Huginn.md",
     "Alliance High Command.md",
     "Episode 8.md",
-    "Huginn.md",
     "The Invisible Hand.md",
     "Senior Staff.md",
     "Kala Courvoisier.md",
@@ -333,10 +354,6 @@
     "Holly Doc M’Benga.md",
     "Episode 6.md",
     "Episode 5.md",
-    "Episode 4.md",
-    "Episode 3.md",
-    "Episode 2.md",
-    "Episode 1.md",
     "Untitled.canvas"
   ]
 }
