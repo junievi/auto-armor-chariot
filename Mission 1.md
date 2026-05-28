@@ -11,7 +11,7 @@ We find ourselves in front of [[The Invisible Hand]]. The [[crew]] of the ship i
 "She's all yours Captain"
 "The skies await Mister Jack. Take her out"
 
-# Episode 2
+# Episode 7
 
 
 [[Huginn]] 
@@ -21,7 +21,7 @@ Genesis 10:9 "And kush beget Nimrod..."
 
 [[Yuri Artorianova]] and [[Holly Doc M’Benga]] discover that someone has sabotaged the engineering bay!
 
-# Episode 3
+# Episode 8
 
 Cut to [[Ommatokoita Ancylos Lichtenberg|Omma]] and [[Jesse Anderson|Andi]], fighting the Nimrod Revenant in the thick, tropical jungle below the ship. It's hiiiiigh noooon. Nimrod fires at Omma, who runs off in the direction the shot came from. She finds an artillery cannon pointed at her former position. There appears to be some sort of "radio device" attached to the cannon, which catches her attention. What she doesn't see is the tripwire at her feet. Cut back to Andi, who gazes in shock at the resulting explosion.
 
@@ -59,3 +59,5 @@ Cut to Andi, who races towards the source of the explosion, meeting up with Omma
 Cut to the bridge, as the crew of [[The Invisible Hand]] triangulates the source of the anti-air fire. Isaac relays the coordinates to the Demons and then orders the crew to return fire. They cut a scar into the jungle with the ship's machine guns, but as the smoke clears, all that can be seen is an unmanned artillery cannon
 
 Cut to Yuri entering the [[wasp]] bay. One of the drop doors is open, and a wasp is missing. inspecting the launch catapult, he realizes that it is impossible to activate it from inside the wasp. Either there are two saboteurs, or this is a feint and the lone saboteur launched a wasp to cover their tracks. Either way, the answers lie on the ship
+
+# Episode 9

@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Episode 7.md",
+                "file": "Mission 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -125,23 +125,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Episode 7"
-            }
-          },
-          {
-            "id": "7b57c52329c3d5d3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "title": "Mission 1"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "b3d988e155d8d278",
@@ -339,11 +327,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b57c52329c3d5d3",
+  "active": "bab1cfd5553f1df3",
   "lastOpenFiles": [
     "Isaac Was'utala Wasomun.md",
     "cum.md",
-    "Episode 7.md",
+    "Mission 1.md",
     "Traits.md",
     "Ommatokoita Ancylos Lichtenberg.md",
     "bane.md",
