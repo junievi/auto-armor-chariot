@@ -65,7 +65,7 @@ You acquire somethingâ€”a tool, ship upgrade, a caged malevolent sentience, etcâ
 Whenever anybody rolls a 6 or below with [[Traits#CREW|CREW]], mark a gravity clock with someone who placed their trust in you.
 # Bio
 ### Name: Isaac Wasomun
-- Gained the moniker _Was'utala_ (warbird) during his career as a Captain. He is ambivalent about it, and if you call him that  (or anything other than "Captain") to his face you'd better outrank him, or be on the other end of a big gun.
+Captain of [[The Invisible Hand]]. Gained the moniker _Was'utala_ (warbird) during his career as a Captain. He is ambivalent about it, and if you call him that  (or anything other than "Captain") to his face you'd better outrank him, or be on the other end of a big gun.
 ### Age: 62
 ### Pronouns: he/him
 ###  Height: 6'1"

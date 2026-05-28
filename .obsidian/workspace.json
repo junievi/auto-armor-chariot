@@ -127,9 +127,21 @@
               "icon": "lucide-file",
               "title": "Episode 7"
             }
+          },
+          {
+            "id": "7b57c52329c3d5d3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "b3d988e155d8d278",
@@ -327,11 +339,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bab1cfd5553f1df3",
+  "active": "7b57c52329c3d5d3",
   "lastOpenFiles": [
     "Isaac Was'utala Wasomun.md",
-    "Traits.md",
+    "cum.md",
     "Episode 7.md",
+    "Traits.md",
     "Ommatokoita Ancylos Lichtenberg.md",
     "bane.md",
     "Violeta June.md",
@@ -354,7 +367,6 @@
     "The Gang.md",
     "Somewhere Nearby.md",
     "Social Space or Private Quarters.md",
-    "Plan and Prepare.md",
     "Untitled.canvas"
   ]
 }

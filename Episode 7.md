@@ -56,4 +56,6 @@ Cut to Omma. Time slows down as she follows the tripwire to the source of the co
 
 Cut to Andi, who races towards the source of the explosion, meeting up with Omma. He exits [[The Dogged Day]] to investigate the automated cannon while Omma keeps watch. He tries to peer into the future to see if the cannon is dangerous, but the spell backfires and his mind is flooded with all the terrible possible timelines that end in his demise. Despite the horrors, he manages to discern that the radio mechanism is hooked up to the cannon's firing mechanism. 
 
-Cut to the bridge. 
+Cut to the bridge, as the crew of [[The Invisible Hand]] triangulates the source of the anti-air fire. Isaac relays the coordinates to the Demons and then orders the crew to return fire. They cut a scar into the jungle with the ship's machine guns, but as the smoke clears, all that can be seen is an unmanned artillery cannon
+
+Cut to Yuri entering the [[wasp]] bay. One of the drop doors is open, and a wasp is missing. inspecting the launch catapult, he realizes that it is impossible to activate it from inside the wasp. Either there are two saboteurs, or this is a feint and the lone saboteur launched a wasp to cover their tracks. Either way, the answers lie on the ship
