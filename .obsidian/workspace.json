@@ -127,9 +127,21 @@
               "icon": "lucide-file",
               "title": "Mission 1"
             }
+          },
+          {
+            "id": "b1c9b00291780202",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "b3d988e155d8d278",
@@ -327,7 +339,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bab1cfd5553f1df3",
+  "active": "b1c9b00291780202",
   "lastOpenFiles": [
     "Isaac Was'utala Wasomun.md",
     "cum.md",
