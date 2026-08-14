@@ -61,3 +61,41 @@ Cut to the bridge, as the crew of [[The Invisible Hand]] triangulates the source
 Cut to Yuri entering the [[wasp]] bay. One of the drop doors is open, and a wasp is missing. inspecting the launch catapult, he realizes that it is impossible to activate it from inside the wasp. Either there are two saboteurs, or this is a feint and the lone saboteur launched a wasp to cover their tracks. Either way, the answers lie on the ship
 
 # Episode 9
+oops! forgot to take notes
+
+Yuri continues to make progress into his investigation into the saboteur, discovering that his goal is to cripple the ship with information provided by Isaac, who is in communication with the channelers on the bridge.
+
+
+Oma and Andi stalk the Nimrod Revenant, subduing him in a pitched melee, but fail to finish him off. Ishamel kicks Deimos into a minefield. 
+
+the starboard propeller was sniped by the mech on the ground, leaving Mister Jack dangling for her life on the side of the plane
+
+Yuri finds the saboteur on the port propeller, but an explosion sends his security detail overboard. Yuri latches on to one of them, but can't pull him up. The saboteur puts his revolver to Yuri's head...
+# Episode 10
+
+"Damage report! what the hell was that?" [[Isaac Was'utala Wasomun|Isaac]] shouts as the impact of the sniper round rocks the ship.
+"We've lost our starboard propeller! [[Carolyn Jack|Mister Jack]] and the security team have gone down!"
+"_Damn_. Send damage control teams to the starboard propeller room, make sure we're not on fire. Recall Yuri and his team from port side, I don't want them there if we get hit again. Helm, full reverse on the port propeller. Throw off our movement and make us harder to predict"
+
+On the ground, [[Jesse Anderson|Andi]] stares in shock at [[Deimos]], prone in the minefield, shredded and unmoving . Parking [[The Dogged Day]] next to her, they clamber awkwardly from one mech to another and attempt to reach the top hatch, which has been warped from the explosion. Fluid leaks from loose tubes and busted pipes
+*bang bang bang* "Oma! Are you in there?"
+No response.
+
+**Channeling** their magic, Andi warps the metal of the hatch, attempting to bend it back into place. Suddenly, a vision of the "future" bursts behind Andi's eyes, they see the door exploding out in metal spikes, impaling Oma and killing her. When the vision clears, the spikes have already started to form. Andi opens the door and feels the spikes break off, falling towards the pilot's seat. They narrowly miss  [[Ommatokoita Ancylos Lichtenberg|Oma]] , who is unconscious, bleeding from a nasty head wound. Isaac dispatches a medic team to the surface in a [[Hornet]] 
+
+[[Carolyn Jack|Mister Jack]] is hanging by one hand on the ruined structure of the starboard propeller. We see her look down and then immediately look back up, ears flat and hissing
+_"I shouldn't have looked down..."_
+She grabs the bar with her other hand and pulls herself up, launching into a somersault and landing gracefully on the gangway. She pulls out a gilded sidearm, racks the slide, and walks back into the ship
+
+[[Yuri Artorianova|Yuri]] glances at the saboteur. A nondescript [[Leonos|Lenonan]] man, pale complexion with blond hair and blue eyes.  
+"What do you want from me?"
+"What? No! I'm gonna shoot you!"
+"Why???"
+"So the bomb can go off!"
+"There's a bomb!?"
+"Yes!"
+"That's the first I'm hearing of it!"
+"Well, duh."
+"Well if the bomb is going to go off, can you help me pull this guy up real quick?"
+"....You are so stupid"
+The saboteur shoots [[Yuri Artorianova|Yuri]] in the head
