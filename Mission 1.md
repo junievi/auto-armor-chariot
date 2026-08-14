@@ -123,9 +123,11 @@ Oma is medevac'd back to the ship. The ship lands and the mechs are retrieved; D
 
 [[Leo Socorrin|Dr. Socorrin]] walks out of sickbay and wipes his brow. Behind him, Oma lies motionless on a bed, covered in bandages. 
 
-Time passes and the Captain calls a debrief.  <THERE"S GOOD STUFF HERE WRITE IT DOWN>
+Time passes and the Captain calls a debrief. Summarizing the events of the sortie, he explains that they are out of immediate danger, but with no idea who sent Ishamel Yaeger or the saboteur after them, or why. Yuri stays behind to ask him how much he trusts Jack, given that she shot the saboteur before he could give up any information. Isaac says that nobody is above suspicion, but that Jack's actions were pragmatic and justified. 
 
 Andi grabs Oma as they leave the briefing room. They have a brief conversation about her health and the state of Deimos. "It hurts, but it could have been worse". 
 "I dunno. I'm glad you're not dead. That's all I had"
+
+In the hanger bay, Oma looks very small in front of the wreckage of Deimos. She stares, and then throws her bag of tools against the side of its chassis. Very quietly, she starts to cry 
 
 

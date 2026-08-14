@@ -82,6 +82,8 @@ The PC he respects the most. No complaints about character, but the fact that sh
 Scum-sucking, lily-livered landlubber trying to save face and grab power. A disgrace to the mantle of warrior. Understands he was a celebrity of some kind before becoming a war-hero [[cum]] politician, but he doesn't really care about Herlock Sholmes. He prefers to read poetry and history.
 [[Episode 3#Session 3]]: He fucking shot me!!
 
+[[Mission 1#Episode 10]]: after saving the ship with his counterintelligence activities, I am forced to admit a grudging respect. 
+
 ### [[Jesse Anderson]]
 Seems like a bright young greenhorn, Nothing I haven't seen before. I'll make a fine sailor/charioteer out of him, whether he likes it or not.
 
