@@ -164,10 +164,24 @@
             "id": "25d418f60c85ae12",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Carolyn Jack.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Carolyn Jack"
             }
           }
         ]
@@ -327,17 +341,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bab1cfd5553f1df3",
+  "active": "06b1ac62acab3640",
   "lastOpenFiles": [
-    "Isaac Was'utala Wasomun.md",
-    "cum.md",
+    "Carolyn Jack.md",
     "Mission 1.md",
+    "Holly Doc M’Benga.md",
+    "Isaac Was'utala Wasomun.md",
+    "Dr. Vivian Nimue.md",
+    "cum.md",
     "Traits.md",
     "Ommatokoita Ancylos Lichtenberg.md",
     "bane.md",
     "Violeta June.md",
-    "Carolyn Jack.md",
-    "Holly Doc M’Benga.md",
     "Leo Socorrin.md",
     "versatile.md",
     "decisive.md",
@@ -354,7 +369,6 @@
     "The Leviathan Within.md",
     "The Gang.md",
     "Somewhere Nearby.md",
-    "Social Space or Private Quarters.md",
     "Untitled.canvas"
   ]
 }

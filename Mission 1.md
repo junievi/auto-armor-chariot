@@ -58,7 +58,7 @@ Cut to Andi, who races towards the source of the explosion, meeting up with Omma
 
 Cut to the bridge, as the crew of [[The Invisible Hand]] triangulates the source of the anti-air fire. Isaac relays the coordinates to the Demons and then orders the crew to return fire. They cut a scar into the jungle with the ship's machine guns, but as the smoke clears, all that can be seen is an unmanned artillery cannon
 
-Cut to Yuri entering the [[wasp]] bay. One of the drop doors is open, and a wasp is missing. inspecting the launch catapult, he realizes that it is impossible to activate it from inside the wasp. Either there are two saboteurs, or this is a feint and the lone saboteur launched a wasp to cover their tracks. Either way, the answers lie on the ship
+Cut to Yuri entering the [[Hornet]] bay. One of the drop doors is open, and a wasp is missing. inspecting the launch catapult, he realizes that it is impossible to activate it from inside the wasp. Either there are two saboteurs, or this is a feint and the lone saboteur launched a wasp to cover their tracks. Either way, the answers lie on the ship
 
 # Episode 9
 oops! forgot to take notes
@@ -85,7 +85,7 @@ No response.
 
 [[Carolyn Jack|Mister Jack]] is hanging by one hand on the ruined structure of the starboard propeller. We see her look down and then immediately look back up, ears flat and hissing
 _"I shouldn't have looked down..."_
-She grabs the bar with her other hand and pulls herself up, launching into a somersault and landing gracefully on the gangway. She pulls out a gilded sidearm, racks the slide, and walks back into the ship
+
 
 [[Yuri Artorianova|Yuri]] glances at the saboteur. A nondescript [[Leonos|Lenonan]] man, pale complexion with blond hair and blue eyes.  
 "What do you want from me?"
@@ -98,4 +98,34 @@ She grabs the bar with her other hand and pulls herself up, launching into a som
 "Well, duh."
 "Well if the bomb is going to go off, can you help me pull this guy up real quick?"
 "....You are so stupid"
-The saboteur shoots [[Yuri Artorianova|Yuri]] in the head
+The saboteur shoots [[Yuri Artorianova|Yuri]] in the head. Back on the bridge, Isaac feels a small twinge of satisfaction and doesn't know why.
+
+...But before he can pull the trigger, Yuri lurches out of the way and into his legs, firing off and into the air. Suddenly, a second gunshot rings out and the saboteur falls dead, Mister Jack standing the doorway,  a smoking gun in her hand.
+"Okay Mister Steyer, let's get you up."
+Jack swiftly yanks the security officer back up onto the deck and has him bring the corpse to the brig
+
+"I'M SO SORRY I CAN'T HEAR A THING THERE WAS A HUGE EXPLOSION"
+"Oh! that's fine!"
+"IF YOU SPEAK SLOWLY I CAN READ YOUR LIPS. WHAT DID YOU FIND?"
+"There's a bomb in the propeller"
+Jack _hoists_ Yuri up on her shoulder and sprints to the propeller. 
+
+"OKAY THIS IS GONNA BE REALLY LOUD"
+Jack grabs the dynamite and chucks it overboard
+
+Jack and Yuri return to the bridge, where Isaac promptly turns Jack around and sends her to medical. Yuri updates Isaac on the situation and the captain expresses his sincere thanks for his efforts to protect the ship. He gives the order to prepare to descend and recover the channelers.
+
+Back on the surface, Andi frets about how to get Oma stabilized and safely extricated from the mech. Visions of tragedy disaster cloud their mind, but they move methodically through each step of bandaging the wound. It takes much longer than necessary, but with patience and heroic focus, they finish the bandage just as the medic team arrives in the Hornet.
+
+_-- END OF SORTIE --_
+
+Oma is medevac'd back to the ship. The ship lands and the mechs are retrieved; Deimos is recovered with a heavy equipment team.
+
+[[Leo Socorrin|Dr. Socorrin]] walks out of sickbay and wipes his brow. Behind him, Oma lies motionless on a bed, covered in bandages. 
+
+Time passes and the Captain calls a debrief.  <THERE"S GOOD STUFF HERE WRITE IT DOWN>
+
+Andi grabs Oma as they leave the briefing room. They have a brief conversation about her health and the state of Deimos. "It hurts, but it could have been worse". 
+"I dunno. I'm glad you're not dead. That's all I had"
+
+
